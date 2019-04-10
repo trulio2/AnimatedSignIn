@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-image: url(BG.jpg);
+    background-image: url(./bg.jpg);
     background-size: 100% 100%;
 }
 #main,#signUpForm{
@@ -95,5 +95,3 @@ a{
     0%{transform: translate(-50%,-50%) rotateY(180deg);}
     100%{transform: translate(-50%,-50%) rotateY(0deg);}
 }
-
-
